@@ -2,10 +2,10 @@
 
 ### Meu nome é Gabriel de Castro 
 
-#### 💻 Atualmente focado em aprender desenvolvimento Frontend
-#### 💡 Amante de UI/UX
-#### 💬 Sinta-se a vontade para falar comigo
-#### 👾 Discord | Akira7#2945
+#### 💻 Atualmente focado em aprender desenvolvimento Frontend;
+#### 💡 Amante de UI/UX;
+#### 💬 Sinta-se a vontade para falar comigo;
+#### 👾 Discord | Akira7#2945;
 
 #
 #### Tecnologias que eu domino: 
