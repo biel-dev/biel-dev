@@ -1,6 +1,6 @@
-# Olá, é um prazer ter você aqui
+# Olá, é um prazer ter você aqui! 👨‍💻
 
-### Meu nome é Gabriel de 
+### Meu nome é Gabriel de Castro 
 
 #### 💻 Atualmente focado em aprender desenvolvimento Frontend
 #### 💡 Amante de UI/UX
